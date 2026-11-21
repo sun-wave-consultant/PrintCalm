@@ -1,12 +1,16 @@
 # PrintCalm public legal pages
 
-Public privacy policy pages for PrintCalm by Sun Wave Consultant LLC.
+Official public legal pages for PrintCalm by Sun Wave Consultant LLC.
 
 ## GitHub Pages
 
 Publish from `main` / `(root)` in Settings > Pages.
 
-- English: `https://sun-wave-consultant.github.io/PrintCalm/privacy.html`
-- 简体中文: `https://sun-wave-consultant.github.io/PrintCalm/zh-Hans/privacy.html`
+- English privacy: https://sun-wave-consultant.github.io/PrintCalm/privacy.html
+- 中文隐私政策: https://sun-wave-consultant.github.io/PrintCalm/zh-Hans/privacy.html
+- English terms: https://sun-wave-consultant.github.io/PrintCalm/terms.html
+- 中文使用条款: https://sun-wave-consultant.github.io/PrintCalm/zh-Hans/terms.html
 
-The policy effective date is November 20, 2026. Update it if the actual publication date differs. Verify the statements against the final release build and support process before publishing.
+The Terms of Use supplement Apple's Standard EULA. Check that product functionality, Pro entitlements, and dates match the released build before publishing.
+
+Contact: support@sun-wave.xyz
